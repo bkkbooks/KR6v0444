@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0444/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 內典塵露章
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0182.xml
+    old_id: B32n0182
+hash: sha256:20dd0f26556f435c3efe233ecd725ee4fbae171c8b3f6e2c6beaa1eb54dc4057
